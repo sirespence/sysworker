@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mercuryworkshop/wisp-js": "^1.1.0",
+    "fastify": "^4.0.0"
+  },
+  "scripts": { "start": "node index.js" }
+}
